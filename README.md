@@ -1,8 +1,11 @@
 student Management System
-   this is a simple management system built using python, tw
-
-
-
+   this is a simple management system built using python, tkinter and pymysql.it allows
+   users to perform CRUD(create,read,Update,Delete)operations on student records.
+   
+   ###Technologies Used###
+   Python
+   MYsql
+   Mysql connector
 
 
 #### How to Run this Project?
